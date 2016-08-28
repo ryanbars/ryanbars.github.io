@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/project_img01.png
 title: Hotel Reservation List ICS321
-permalink: projects/Hotel Reservation List ICS321
+permalink: projects/hotelreservationlist
 date: 2014
 labels:
   - PHP
