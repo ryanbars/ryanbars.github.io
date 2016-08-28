@@ -10,6 +10,7 @@ labels:
   - MySQL
   - HTML
 summary: My team developed an application that can search your hotel database for customer reservation history. 
+projecturl: https://ryanbars.github.io/projects/hotelreservationlist
 ---
 
 <div class="ui small rounded images">
