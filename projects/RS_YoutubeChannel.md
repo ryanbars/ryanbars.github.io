@@ -10,7 +10,7 @@ labels:
   - Twitter
   - Facebook
 summary: I grew a gaming channel to 1000+ subscribers by connecting with viewers and the use of social media.  
-projecturl: https://ryanbars.github.io/projects/hotelreservationlist
+projecturl: https://ryanbars.github.io/projects/runescapeyoutubechannel
 ---
 
 <div class="ui small rounded images">
