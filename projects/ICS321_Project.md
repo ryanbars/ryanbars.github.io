@@ -13,7 +13,7 @@ summary: My team developed an application that can search your hotel database fo
 projecturl: https://ryanbars.github.io/projects/hotelreservationlist
 ---
 
-<div class="ui small rounded images">
+<div class="">
 	<iframe style="width: 400px, height: 300px;" src="../images/ics321screen.mp4"></iframe>
 </div>
 
