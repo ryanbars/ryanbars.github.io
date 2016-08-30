@@ -13,8 +13,8 @@ summary: My team developed an application that can search your hotel database fo
 projecturl: https://ryanbars.github.io/projects/hotelreservationlist
 ---
 
-<div class="">
-	<iframe style="width: 400px, height: 300px;" src="../images/ics321screen.mp4"></iframe>
+<div style="width: 400px, height: 300px;">
+	<iframe src="../images/ics321screen.mp4"></iframe>
 </div>
 
 For our ICS 321 final project my team created an web application that allows hotel managers to query customer reservation information based on different parameters. The idea was that if historical information was provided such as customers hometown, credit card type, date of reservation, and room size, hotel managers would be able to bettery accomidate certain valued customers and schedule hotel maintenance around times when there are less people in the hotel. 
