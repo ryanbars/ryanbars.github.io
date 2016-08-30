@@ -20,7 +20,7 @@ For our ICS 321 final project my team created an web application that allows hot
 This project was very query focused, for each parameter we needed to dynamically build a different query on the backend. This project helped me build my up my foundation in PHP and HTML as there were many instances where we needed to connect the front end website to the backend database, as well as my foundation in MySQL and managing a user login system. 
 
 <div class="ui medium rounded images">
-	<iframe class="ui medium" src="../images/ics321screen.mp4"></iframe>
+	<iframe class="ui image" src="../images/ics321screen.mp4"></iframe>
 </div>
 
 Source: [Github](http://ryanbars.github.io/ICS321_Project)
