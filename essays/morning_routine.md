@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Having a Morning Routine
-date: 2016-08-26
+date: 2016-08-31
 labels:
   - Personal Development
   - Productivity
