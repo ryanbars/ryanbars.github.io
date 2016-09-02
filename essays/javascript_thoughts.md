@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Thoughts on Javascript 
+title: thoughtsOnJavaScript 
 date: 2016-09-01
 labels:
   - Software Engineering
