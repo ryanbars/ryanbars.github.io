@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: thoughtsOnJavaScript
+title: LTIU
 date: 2016-09-08
 labels:
   - Programming
