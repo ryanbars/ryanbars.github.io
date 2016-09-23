@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: imo eslint can smd
+title: Why I Hate Eslint
 date: 2016-09-22
 labels:
   - Software Engineering
