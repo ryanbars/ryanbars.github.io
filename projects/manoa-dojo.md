@@ -19,7 +19,7 @@ Manoa Dojo is a study app that helps students excel in certain classes by matchi
 For Manoa Dojo I was in charge of creating the landing page and implementing login functionality. Users needed to login through the University of Hawaii Cas system so that we could authenticate each use as a UHM student or staff. I implemented the calendar function in which sections that you sign up for are displayed on your personal calendar so that you can keep track of upcoming sections. I was also in taking all the photos used in Manoa Dojo as well as creating the graphics for the About Page so that before users logged in they knew what Manoa Dojo was all about in a fun intuitive way. The biggest thing I learned from this project was that it's extremely hard to do a group project without a dedicated leader and plan. Without a clear plan the system for divying out and completing tasks is often haphazard and creates a lot of gaps in knowledge about the functionality of the app and how the pieces fit together, and without a clear leader theres not way to make the plan so it ends up feeling weird. I'm sure these problems are unique to school group projects and not indicitive of how an actual business or company runs its projects.
 
 <div class="ui medium rounded images">
-	<img src="../images/landing-page2.png"></img>
+	<img src="../images/landing-page2.jpg"></img>
 	<img src="../images/home-page.png"></img>
 </div>
 Source: [Youtube Channel](https://manoa-dojo.github.io/)
