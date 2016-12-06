@@ -2,8 +2,8 @@
   "basics": {
     "name": "Ryan Barsatan",
     "label": "Student",
-    "picture": "https://ryanbars.github.io/images/headshot.jpg",
-    "email": "ryanbars@hawaii.edu",
+    "picture": "https://ryanbars.github.io/images/headshot2.jpg",
+    "email": "ryanbarsatan@gmail.com",
     "phone": "808-754-6839",
     "website": "https://ryanbars.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2017.",
@@ -39,11 +39,13 @@
   },
   "interests": [
     {
-      "name": "Exercising",
+      "name": "Web Design and Development",
       "keywords": [
-        "weight lifting",
-        "surfing",
-        "sports"
+        "Web development",
+        "apps",
+        "android",
+        "ios",
+        "google"
       ]
     },
     {
@@ -56,13 +58,11 @@
       ]
     },
     {
-      "name": "Web Design",
+      "name": "Exercising",
       "keywords": [
-        "Web development",
-        "apps",
-        "android",
-        "ios",
-        "google"
+        "weight lifting",
+        "surfing",
+        "sports"
       ]
     }
   ],
@@ -78,7 +78,8 @@
         "PHP",
         "SQL Server",
         "MySQL",
-        "VBA"
+        "VBA",
+        "Meteor"
       ]
     },
     {
@@ -114,6 +115,7 @@
       "summary": "Office Assistant",
       "highlights": [
         "Data input, verification, cleaning, and calculation through SQL Server and VBA",
+        "Website Maintenence",
         "Help with IT problems",
         "Installation of software (OS, Microsoft Office, Antivirus)"
       ]
