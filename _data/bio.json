@@ -78,7 +78,8 @@
         "PHP",
         "SQL Server",
         "MySQL",
-        "VBA"
+        "VBA",
+        "Meteor"
       ]
     },
     {
@@ -114,6 +115,7 @@
       "summary": "Office Assistant",
       "highlights": [
         "Data input, verification, cleaning, and calculation through SQL Server and VBA",
+        "Website Maintenence",
         "Help with IT problems",
         "Installation of software (OS, Microsoft Office, Antivirus)"
       ]
