@@ -39,11 +39,13 @@
   },
   "interests": [
     {
-      "name": "Exercising",
+      "name": "Web Design and Development",
       "keywords": [
-        "weight lifting",
-        "surfing",
-        "sports"
+        "Web development",
+        "apps",
+        "android",
+        "ios",
+        "google"
       ]
     },
     {
@@ -56,13 +58,11 @@
       ]
     },
     {
-      "name": "Web Design and Development",
+      "name": "Exercising",
       "keywords": [
-        "Web development",
-        "apps",
-        "android",
-        "ios",
-        "google"
+        "weight lifting",
+        "surfing",
+        "sports"
       ]
     }
   ],
