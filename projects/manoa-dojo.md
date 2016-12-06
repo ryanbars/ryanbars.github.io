@@ -12,10 +12,6 @@ labels:
 summary: Part of a team that built an app that helps students find other students to study with.
 projecturl: https://ryanbars.github.io/projects/manoadojo
 ---
-<div class="ui large rounded images">
-	<img src="../images/landing-page2.jpg"></img>
-	<img src="../images/home-page.png"></img>
-</div>
 ## Summary
 Manoa Dojo is a study app that helps students excel in certain classes by matching them up with other students who have already taken that class, or are very knowledgeable in that subject. For each course, there are two types of users: Grasshoppers and Senseis. Grasshoppers represent the typical student users – ones that require help in their classes. Senseis are the student mentors whom have already taken the course. Grasshoppers can request a study session, notifying all other grasshoppers and senseis in that subject. These grasshoppers and senseis may join the study session, creating a study group. We believed that students learned best when in an environment with their peers, Manoa Dojo's goal is to facilitate this and help everyone learn and grow. 
 
@@ -24,5 +20,9 @@ For Manoa Dojo I was in charge of creating the landing page and implementing log
 
 Source: [Project Page](https://manoa-dojo.github.io/)
 
+<div class="ui medium rounded images">
+	<img src="../images/landing-page2.jpg"></img>
+	<img src="../images/home-page.png"></img>
+</div>
 
 
