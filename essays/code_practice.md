@@ -9,7 +9,7 @@ labels:
   - Coding Standards
 ---
 
-## I love coding standards, but I cannot stand Eslint. 
+### I love coding standards, but I cannot stand Eslint. 
 
 Coding standards are great, it allows for readable, efficient code and makes reading other peoples code a whole lot easier. The purpose of Eslint is to have a way to enforce coding standards, instead of just hoping people will remember to format their code correctly Eslint checks and notifies you if you do something wrong. The problem is that alot of the times Eslint gets in the way. The very first time I used IntelliJ with Eslint enabled, I spent 30 minutes trying to figure out why my for loop was marked as an error. I've written thousands of for loops but for some reason this specific for loop was wrong? Turns out Eslint doesn't like it when you pass through arrays without using the for each style for loop. The code wasn't syntactically wrong it just wasn't "acceptable" in the eyes of Eslint. 
 
