@@ -2,10 +2,10 @@
   "basics": {
     "name": "Ryan Barsatan",
     "label": "Student",
-    "picture": "https://ryanbars.github.io/images/headshot2.jpg",
+    "picture": "https://ryanbarsatan.github.io/images/headshot2.jpg",
     "email": "ryanbarsatan@gmail.com",
     "phone": "808-754-6839",
-    "website": "https://ryanbars.github.io",
+    "website": "https://ryanbarsatan.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2017.",
     "location": {
       "address": "",
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "github",
-        "username": "ryanbars",
-        "url": "http://github.com/ryanbars"
+        "username": "ryanbarsatan",
+        "url": "http://github.com/ryanbarsatan"
       },
       {
         "network": "linkedin",
