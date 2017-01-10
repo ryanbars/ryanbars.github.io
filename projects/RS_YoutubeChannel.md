@@ -10,7 +10,7 @@ labels:
   - Twitter
   - Facebook
 summary: I grew a gaming channel to 1000+ subscribers by connecting with viewers and the use of social media.  
-projecturl: https://ryanbars.github.io/projects/runescapeyoutubechannel
+projecturl: https://ryanbarsatan.github.io/projects/runescapeyoutubechannel
 ---
 
 I started a youtube channel based around the game Runescape, within 6 months I was able to grow the channel from nothing to over 1000 subscribers. 
