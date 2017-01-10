@@ -9,7 +9,7 @@ labels:
   - MS SQL Server 2014
   - VBA
 summary: I helped calculate and verify data for the Early Childhood Indicator Report put out by UH Center on the Family
-projecturl: https://ryanbars.github.io/projects/ECISReport_COF
+projecturl: https://ryanbarsatan.github.io/projects/ECISReport_COF
 ---
 
 Center on The Family (COF) released a report on the health and wellness statistics of early childhood (ages 0-5) children. Thie data in this report features COF Indicators that give insights on a variety of issues that an early childhood child living in hawaii could face, and which social services/programs can be changed to better suit their needs. 
